@@ -1,0 +1,8 @@
+pluginDQMSiStripMonitorCluster.so MonitorLTC CMS%EDM%Framework%Module
+pluginDQMSiStripMonitorCluster.so MonitorLTC CMS%EDM%Framework%ParameterSet%Description
+pluginDQMSiStripMonitorCluster.so SiStripMonitorCluster CMS%EDM%Framework%Module
+pluginDQMSiStripMonitorCluster.so SiStripMonitorCluster CMS%EDM%Framework%ParameterSet%Description
+pluginDQMSiStripMonitorCluster.so SiStripMonitorFilter CMS%EDM%Framework%Module
+pluginDQMSiStripMonitorCluster.so SiStripMonitorFilter CMS%EDM%Framework%ParameterSet%Description
+pluginDQMSiStripMonitorCluster.so SiStripMonitorHLT CMS%EDM%Framework%Module
+pluginDQMSiStripMonitorCluster.so SiStripMonitorHLT CMS%EDM%Framework%ParameterSet%Description

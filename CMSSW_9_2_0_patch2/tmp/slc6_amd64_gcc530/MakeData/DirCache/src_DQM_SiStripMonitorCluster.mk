@@ -1,0 +1,2 @@
+ALL_PACKAGES += DQM/SiStripMonitorCluster
+subdirs_src_DQM_SiStripMonitorCluster := src_DQM_SiStripMonitorCluster_doc src_DQM_SiStripMonitorCluster_src src_DQM_SiStripMonitorCluster_interface src_DQM_SiStripMonitorCluster_test src_DQM_SiStripMonitorCluster_python

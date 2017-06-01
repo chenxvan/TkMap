@@ -1,0 +1,1 @@
+DQMSiStripMonitorCluster DQM/SiStripMonitorCluster/srcSiStripMonitorCluster.cc DQM/SiStripMonitorCluster/srcSiStripMonitorFilter.cc DQM/SiStripMonitorCluster/srcSealModules.cc DQM/SiStripMonitorCluster/srcSiStripMonitorHLT.cc DQM/SiStripMonitorCluster/srcMonitorLTC.cc

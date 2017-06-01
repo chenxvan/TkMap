@@ -1,0 +1,8 @@
+plugin-poisoned-DQMSiStripMonitorCluster.so MonitorLTC CMS%EDM%Framework%Module
+plugin-poisoned-DQMSiStripMonitorCluster.so MonitorLTC CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-DQMSiStripMonitorCluster.so SiStripMonitorCluster CMS%EDM%Framework%Module
+plugin-poisoned-DQMSiStripMonitorCluster.so SiStripMonitorCluster CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-DQMSiStripMonitorCluster.so SiStripMonitorFilter CMS%EDM%Framework%Module
+plugin-poisoned-DQMSiStripMonitorCluster.so SiStripMonitorFilter CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-DQMSiStripMonitorCluster.so SiStripMonitorHLT CMS%EDM%Framework%Module
+plugin-poisoned-DQMSiStripMonitorCluster.so SiStripMonitorHLT CMS%EDM%Framework%ParameterSet%Description
